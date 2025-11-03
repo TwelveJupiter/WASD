@@ -1,0 +1,6 @@
+arg 12
+ldi 1
+arg 15
+ldi 2
+arg 0
+arh 1 2
